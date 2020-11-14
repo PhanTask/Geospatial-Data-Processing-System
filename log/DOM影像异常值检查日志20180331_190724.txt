@@ -1,0 +1,19 @@
+[CONFIG] 任务项：DOM影像异常值检查
+[CONFIG] 输入目录：E:/武大质检程序样例数据/GeoBigData/data/单波段异常值
+[CONFIG] 输出目录：原目录下
+[CONFIG] 影像异常值设置：255
+[CONFIG] 近似异常值距离：10
+[CONFIG] 非异常值容忍数：0
+[CONFIG] 检查模式：并行（CPU核心数 8）
+[INFO] 进程池初始化...
+[INFO] 初始化成功，开始检查数据...
+[INFO] (1/9) E:/武大质检程序样例数据/GeoBigData/H51G045016_P/H51G045016_P.img
+[INFO] (2/9) E:/武大质检程序样例数据/GeoBigData/H51G0450161_P/H51G0450161_P.img
+[INFO] (3/9) E:/武大质检程序样例数据/GeoBigData/H51G0450162_P/H51G0450162_P.img
+[INFO] (4/9) E:/武大质检程序样例数据/GeoBigData/H50G0230902_P/H50G0230902_P.img
+[INFO] (5/9) E:/武大质检程序样例数据/GeoBigData/H50G023090_P/H50G023090_P.img
+[INFO] (6/9) E:/武大质检程序样例数据/GeoBigData/H50G0230901_P/H50G0230901_P.img
+[INFO] (7/9) E:/武大质检程序样例数据/GeoBigData/H50G0220962_P/H50G0220962_P.img
+[INFO] (8/9) E:/武大质检程序样例数据/GeoBigData/H50G022096_P/H50G022096_P.img
+[INFO] (9/9) E:/武大质检程序样例数据/GeoBigData/H50G0220961_P/H50G0220961_P.img
+[INFO] 检查完成

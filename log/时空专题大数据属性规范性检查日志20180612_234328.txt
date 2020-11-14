@@ -1,0 +1,38 @@
+[CONFIG] 任务项：时空专题大数据属性规范性检查
+[CONFIG] 输入目录：E:/武大质检程序样例数据/stdata2
+[CONFIG] 输出目录：E:/武大质检程序样例数据/testResult
+[CONFIG] 检查模式：串行（核心数 8）
+[INFO] 初始化...
+[INFO] 初始化成功，开始检查数据...
+
+lyr_yh_zzyh共检查18个字段
+feAllErrorNum:0	nameErrNum:0	yhjcErrNum:0	szsErrNum:0	szqxErrNum:0	szzErrNum:0	dzErrNum:0	yzbmErrNum:0	lxdhErrNum:0	wzErrNum:0	emailErrNum:0	jjErrNum:0	uuidErrNum:0	OBJECTIDErrNum:0	FEATUREGUIErrNum:0	CREATETIMEErrNum:0	UPDATETIMEErrNum:0	UPDATENOTEErrNum:0	StdAddressErrNum:0	
+
+lyr_jybj_azbzyzxjcjg共检查18个字段
+feAllErrorNum:0	nameErrNum:0	yhjcErrNum:0	szsErrNum:0	szqxErrNum:0	szzErrNum:0	dzErrNum:0	yzbmErrNum:0	lxdhErrNum:0	wzErrNum:0	emailErrNum:0	jjErrNum:0	uuidErrNum:0	OBJECTIDErrNum:0	FEATUREGUIErrNum:0	CREATETIMEErrNum:0	UPDATETIMEErrNum:0	UPDATENOTEErrNum:0	StdAddressErrNum:0	dzyxErrNum:0	gzsjErrNum:0	jdtsdhErrNum:0	
+
+lyr_jybj_rlfzsyjg共检查18个字段
+feAllErrorNum:0	nameErrNum:0	yhjcErrNum:0	szsErrNum:0	szqxErrNum:0	szzErrNum:0	dzErrNum:0	yzbmErrNum:0	lxdhErrNum:0	wzErrNum:0	emailErrNum:0	jjErrNum:0	uuidErrNum:0	OBJECTIDErrNum:0	FEATUREGUIErrNum:0	CREATETIMEErrNum:0	UPDATETIMEErrNum:0	UPDATENOTEErrNum:0	StdAddressErrNum:0	dzyxErrNum:0	gzsjErrNum:0	jdtsdhErrNum:0	tsjddhErrNum:0	
+
+lyr_jybj_syyd共检查18个字段
+feAllErrorNum:0	nameErrNum:0	yhjcErrNum:0	szsErrNum:0	szqxErrNum:0	szzErrNum:0	dzErrNum:0	yzbmErrNum:0	lxdhErrNum:0	wzErrNum:0	emailErrNum:0	jjErrNum:0	uuidErrNum:0	OBJECTIDErrNum:0	FEATUREGUIErrNum:0	CREATETIMEErrNum:0	UPDATETIMEErrNum:0	UPDATENOTEErrNum:0	StdAddressErrNum:0	dzyxErrNum:0	gzsjErrNum:0	jdtsdhErrNum:0	tsjddhErrNum:0	
+
+lyr_jybj_syyljg共检查21个字段
+feAllErrorNum:0	nameErrNum:0	yhjcErrNum:0	szsErrNum:0	szqxErrNum:0	szzErrNum:0	dzErrNum:0	yzbmErrNum:0	lxdhErrNum:0	wzErrNum:0	emailErrNum:0	jjErrNum:0	uuidErrNum:0	OBJECTIDErrNum:0	FEATUREGUIErrNum:0	CREATETIMEErrNum:0	UPDATETIMEErrNum:0	UPDATENOTEErrNum:0	StdAddressErrNum:0	dzyxErrNum:0	gzsjErrNum:0	jdtsdhErrNum:0	tsjddhErrNum:0	jcErrNum:0	xzErrNum:0	djErrNum:0	
+
+lyr_jybj_tjjg共检查18个字段
+feAllErrorNum:0	nameErrNum:0	yhjcErrNum:0	szsErrNum:0	szqxErrNum:0	szzErrNum:0	dzErrNum:0	yzbmErrNum:0	lxdhErrNum:0	wzErrNum:0	emailErrNum:0	jjErrNum:0	uuidErrNum:0	OBJECTIDErrNum:0	FEATUREGUIErrNum:0	CREATETIMEErrNum:0	UPDATETIMEErrNum:0	UPDATENOTEErrNum:0	StdAddressErrNum:0	dzyxErrNum:0	gzsjErrNum:0	jdtsdhErrNum:0	tsjddhErrNum:0	jcErrNum:0	xzErrNum:0	djErrNum:0	
+
+lyr_yh_yhwd共检查20个字段
+feAllErrorNum:0	nameErrNum:0	yhjcErrNum:0	szsErrNum:0	szqxErrNum:0	szzErrNum:0	dzErrNum:0	yzbmErrNum:0	lxdhErrNum:0	wzErrNum:0	emailErrNum:0	jjErrNum:0	uuidErrNum:0	OBJECTIDErrNum:0	FEATUREGUIErrNum:0	CREATETIMEErrNum:0	UPDATETIMEErrNum:0	UPDATENOTEErrNum:0	StdAddressErrNum:0	dzyxErrNum:0	gzsjErrNum:0	jdtsdhErrNum:0	tsjddhErrNum:0	jcErrNum:0	xzErrNum:0	djErrNum:0	
+
+lyr_jybj_ydjylwjsyy共检查22个字段
+feAllErrorNum:0	nameErrNum:0	yhjcErrNum:0	szsErrNum:0	szqxErrNum:0	szzErrNum:0	dzErrNum:0	yzbmErrNum:0	lxdhErrNum:0	wzErrNum:0	emailErrNum:0	jjErrNum:0	uuidErrNum:0	OBJECTIDErrNum:0	FEATUREGUIErrNum:0	CREATETIMEErrNum:0	UPDATETIMEErrNum:0	UPDATENOTEErrNum:0	StdAddressErrNum:0	dzyxErrNum:0	gzsjErrNum:0	jdtsdhErrNum:0	tsjddhErrNum:0	jcErrNum:0	xzErrNum:0	djErrNum:0	sfktlxErrNum:0	ddtcmcErrNum:0	ddssErrNum:0	
+
+lyr_jybj_ybddyljg共检查22个字段
+feAllErrorNum:0	nameErrNum:0	yhjcErrNum:0	szsErrNum:0	szqxErrNum:0	szzErrNum:0	dzErrNum:0	yzbmErrNum:0	lxdhErrNum:0	wzErrNum:0	emailErrNum:0	jjErrNum:0	uuidErrNum:0	OBJECTIDErrNum:0	FEATUREGUIErrNum:0	CREATETIMEErrNum:0	UPDATETIMEErrNum:0	UPDATENOTEErrNum:0	StdAddressErrNum:0	dzyxErrNum:0	gzsjErrNum:0	jdtsdhErrNum:0	tsjddhErrNum:0	jcErrNum:0	xzErrNum:0	djErrNum:0	sfktlxErrNum:0	ddtcmcErrNum:0	ddssErrNum:0	ddfwErrNum:0	
+
+lyr_jybj_ybddyd共检查21个字段
+feAllErrorNum:0	nameErrNum:0	yhjcErrNum:0	szsErrNum:0	szqxErrNum:0	szzErrNum:0	dzErrNum:0	yzbmErrNum:0	lxdhErrNum:0	wzErrNum:0	emailErrNum:0	jjErrNum:0	uuidErrNum:0	OBJECTIDErrNum:0	FEATUREGUIErrNum:0	CREATETIMEErrNum:0	UPDATETIMEErrNum:0	UPDATENOTEErrNum:0	StdAddressErrNum:0	dzyxErrNum:0	gzsjErrNum:0	jdtsdhErrNum:0	tsjddhErrNum:0	jcErrNum:0	xzErrNum:0	djErrNum:0	sfktlxErrNum:0	ddtcmcErrNum:0	ddssErrNum:0	ddfwErrNum:0	ybddxzErrNum:0	
+
+[INFO] 检查完成

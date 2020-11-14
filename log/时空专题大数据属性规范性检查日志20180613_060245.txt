@@ -1,0 +1,46 @@
+[CONFIG] 任务项：时空专题大数据属性规范性检查
+[CONFIG] 输入目录：E:/武大质检程序样例数据/stdata2018
+[CONFIG] 输出目录：E:/武大质检程序样例数据/testResult
+[CONFIG] 检查模式：串行（核心数 8）
+[INFO] 初始化...
+[INFO] 初始化成功，开始检查数据...
+
+lyr_jybj_azbzyzxjcjg共检查9个字段
+feAllErrorNum : 0
+szsErrNum : 0
+szqxErrNum : 0
+szzErrNum : 0
+dzErrNum : 0
+yzbmErrNum : 0
+lxdhErrNum : 0
+wzErrNum : 0
+gzsjErrNum : 0
+
+
+lyr_jybj_tjjg共检查10个字段
+feAllErrorNum : 4
+szsErrNum : 0
+szqxErrNum : 0
+szzErrNum : 1
+dzErrNum : 1
+yzbmErrNum : 2
+lxdhErrNum : 0
+wzErrNum : 0
+gzsjErrNum : 0
+emailErrNum : 0
+
+
+lyr_jybj_ydjylwjsyy共检查10个字段
+feAllErrorNum : 866
+szsErrNum : 0
+szqxErrNum : 6
+szzErrNum : 0
+dzErrNum : 0
+yzbmErrNum : 856
+lxdhErrNum : 0
+wzErrNum : 0
+gzsjErrNum : 0
+emailErrNum : 0
+
+
+[INFO] 检查完成

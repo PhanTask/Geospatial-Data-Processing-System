@@ -1,0 +1,3 @@
+已打开文件  D:/project/outPutX.X
+X文件读取完成  D:/project/outPutX.X
+正在创建模型外接矩形 面数据  D:/project/datalab/or.shp

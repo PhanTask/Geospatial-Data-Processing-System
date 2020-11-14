@@ -1,0 +1,2 @@
+已打开文件  D:/1工作空间/三维景观与模型数据THRD/XDirs/asd.X
+X文件读取完成  D:/1工作空间/三维景观与模型数据THRD/XDirs/asd.X

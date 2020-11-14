@@ -1,0 +1,17 @@
+[CONFIG] 任务项：DOM影像异常值检查
+[CONFIG] 输入目录：D:/1工作空间/数字正射影像DOM/rotate
+[CONFIG] 输出目录：D:/1工作空间/数字正射影像DOM/rotatethreshold
+[CONFIG] 影像异常值设置：255
+[CONFIG] 近似异常值距离：10
+[CONFIG] 边缘修正因子：1
+[CONFIG] 内扩距离：1
+[CONFIG] 影像输出格式为：img
+[CONFIG] 生成影像金字塔：True
+[CONFIG] 检查模式：并行（进程数 4）
+[INFO] 进程池初始化...
+[INFO] 初始化成功，开始检查数据...
+
+[INFO] (1/1) D:/1工作空间/数字正射影像DOM/rotate/H51G04501611/H51G04501611.img
+[INFO] 总像元数量：30761722；异常像元数量：3655361
+
+[INFO] 检查完成

@@ -1,0 +1,3454 @@
+[CONFIG] 任务项：时空专题大数据编码一致性检查
+[CONFIG] 索引数据输入目录：E:/武大质检程序样例数据/stdata
+[CONFIG] 检查模式：并行（CPU核心数 8）
+[INFO] 进程池初始化...
+[INFO] 初始化成功，开始检查数据...
+
+[INFO] (1/1) E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+[INFO]   1/57306  文成县疾病预防与控制中心
+[INFO] 该要素编码均一致
+[INFO] 要素编码：8f63fc0e-7d4f-4cdc-bd09-eaaf58754836
+
+[INFO]   2/57306  镇海区疾病预防控制中心
+[INFO] 该要素编码均一致
+[INFO] 要素编码：2263bfae-bff3-4648-9a09-ce55ca270e03
+
+[INFO]   3/57306  衢州市妇幼保健院
+[INFO] 共出现 2 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：8f73b7ed-b557-4d1c-b39f-d4ddce6eae93
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：c6e3b6e5-0666-4bcc-949a-b792113e7457
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   4/57306  衢州市疾病预防控制中心
+[INFO] 该要素编码均一致
+[INFO] 要素编码：6f1ca64a-21be-4e0c-9d65-73764d812ba8
+
+[INFO]   5/57306  衢州市人民医院
+[INFO] 共出现 3 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：df6a468b-5a09-4f70-bfc8-542d294aea38
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：ff8a403e-1bc2-4c1e-84d7-dabbfbe31d28
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ydjylwjsyy
+[INFO] 要素编码：fe52124e-62bc-4d80-a270-325dd33d434a
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   6/57306  衢州市中医医院
+[INFO] 共出现 2 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：5a22ae9e-bab2-4606-8c60-56fc94b8f0bc
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：069a72fb-42d6-4269-97b3-d32e383805cb
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   7/57306  玉环县人民医院艾滋病自愿咨询检测门诊
+[INFO] 该要素编码均一致
+[INFO] 要素编码：e65fff42-0ef7-45b6-9b40-80788d065285
+
+[INFO]   8/57306  玉环县疾病预防控制中心艾滋病自愿咨询检测门诊
+[INFO] 该要素编码均一致
+[INFO] 要素编码：efdc899e-7add-4edc-ac4d-13111daf3142
+
+[INFO]   9/57306  玉环县第二人民医院艾滋病自愿咨询检测门诊
+[INFO] 该要素编码均一致
+[INFO] 要素编码：58772694-b1fc-4326-8c1b-277ec18effab
+
+[INFO]   10/57306  玉环县妇幼保健所艾滋病自愿咨询检测门诊
+[INFO] 该要素编码均一致
+[INFO] 要素编码：436fcc6b-3c49-4842-be66-bea413a8843b
+
+[INFO]   11/57306  嘉兴市疾病预防控制中心
+[INFO] 共出现 2 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：77466e55-4e89-446e-8595-d65393ab6fb5
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：a85fc100-730b-4eb9-873c-4bee2b9b0e6d
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   12/57306  开化县疾病预防控制中心
+[INFO] 共出现 2 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：acf3207d-e81f-4146-9fa2-27c7f5bd23d0
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：a474eb25-d5c8-473b-9549-28ec0ac65db3
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   13/57306  常山县疾病预防控制中心
+[INFO] 该要素编码均一致
+[INFO] 要素编码：9c88e9c0-243e-4486-86fa-71044e1837ed
+
+[INFO]   14/57306  绍兴市越城区疾病预防控制中心（卫生监督所）
+[INFO] 该要素编码均一致
+[INFO] 要素编码：79461a7d-e01f-49f6-bccb-b0c3de2109a5
+
+[INFO]   15/57306  兰溪市疾病预防控制中心
+[INFO] 共出现 3 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：6a10bc6d-18ce-4e69-bd71-10a03f5942da
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：5256f08a-08dc-4afc-9a1f-4c6e0bc97d09
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：0359d774-1986-4a43-b2d0-227225d1b853
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   16/57306  宁波市镇海区中医医院
+[INFO] 共出现 4 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：5b95f480-3d34-4e77-a6fb-2c1b4a389c56
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：ee353154-0267-424e-9031-d731aa0e5c08
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：84928373-ede9-49b6-92dc-aa160bd61913
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 4 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：cc7fc358-95b5-4290-906e-75d1f87bfa8a
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   17/57306  乐清市人民医院
+[INFO] 共出现 3 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：d9ba4cdc-fe72-4ec8-9e11-1202881572e9
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：737a1968-402c-4ecd-9cdd-d3b2efb609c7
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：8eae4028-9560-45b3-a24f-c61bb3ddb1a1
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   18/57306  兰溪市人民医院
+[INFO] 共出现 3 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：d2e2e2ac-26de-4b31-a254-1a3e4a3026b8
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：8ab31281-2f11-400a-b03f-1993b249629b
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：ed8d4db0-8b7c-4ad5-8d3f-cc1cf08622f4
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   19/57306  桐乡市疾病预防控制中心（艾滋病防制科）
+[INFO] 该要素编码均一致
+[INFO] 要素编码：2b2b47f0-3bb0-487b-9583-47d6e845b1b2
+
+[INFO]   20/57306  桐乡市第一人民医院（皮肤性病科）
+[INFO] 该要素编码均一致
+[INFO] 要素编码：bb34e54f-61f0-4083-8ec3-a935178306dd
+
+[INFO]   21/57306  桐乡市第二人民医院（皮肤性病科）
+[INFO] 该要素编码均一致
+[INFO] 要素编码：6e7f1c90-866f-4458-af31-8e713324d00a
+
+[INFO]   22/57306  桐乡市乌镇镇中心卫生院（皮肤科）
+[INFO] 该要素编码均一致
+[INFO] 要素编码：855f817d-e685-40c0-8503-1725cb0182e6
+
+[INFO]   23/57306  桐乡市第四人民医院（皮肤科）
+[INFO] 该要素编码均一致
+[INFO] 要素编码：ef2c4770-6c7a-4b73-8e96-dc09db916290
+
+[INFO]   24/57306  桐乡市中医医院（皮肤科）
+[INFO] 该要素编码均一致
+[INFO] 要素编码：d7c3f590-5d0c-47f8-aa10-cc6b2ba92bc3
+
+[INFO]   25/57306  桐乡市妇幼保健院（妇保科）
+[INFO] 该要素编码均一致
+[INFO] 要素编码：9704a599-2279-458b-a52f-43d49ee947c7
+
+[INFO]   26/57306  桐乡市皮肤病防治院（性病科）
+[INFO] 该要素编码均一致
+[INFO] 要素编码：b18137bb-e07a-4172-bf5b-5386fae7eed8
+
+[INFO]   27/57306  嘉兴市康慈医院（美沙酮门诊）
+[INFO] 该要素编码均一致
+[INFO] 要素编码：5ab56cac-978e-4f68-8a55-98507bc1e072
+
+[INFO]   28/57306  桐乡市洲泉中心卫生院（妇产科）
+[INFO] 该要素编码均一致
+[INFO] 要素编码：a3cbdd16-9a77-4311-9bed-3a283712ec15
+
+[INFO]   29/57306  石门中心卫生院（皮肤科）
+[INFO] 该要素编码均一致
+[INFO] 要素编码：35e142be-b30a-48c0-946b-5b7440948fcf
+
+[INFO]   30/57306  金华市金东区疾病预防控制中心
+[INFO] 该要素编码均一致
+[INFO] 要素编码：a7c958ec-221a-4de7-bb54-2e5a80aa0bda
+
+[INFO]   31/57306  平阳县疾病预防控制中心
+[INFO] 该要素编码均一致
+[INFO] 要素编码：41458a0f-c8b2-4c9b-9e2a-1d4e821be808
+
+[INFO]   32/57306  兰溪市妇幼保健计划生育服务中心
+[INFO] 共出现 4 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：0128bbee-ccbc-407d-83b2-8edeeec6184e
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：b4be480b-a9c1-4147-9907-eedb0da82427
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：ba3c58ab-598c-4b70-af73-e81e7dba59e2
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 4 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：b25b847b-6344-4870-910b-847472e233a6
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   33/57306  余姚市疾病预防控制中心
+[INFO] 该要素编码均一致
+[INFO] 要素编码：3da36377-9cb9-4538-b646-a23c425a0cf0
+
+[INFO]   34/57306  三门县疾病预防控制中心
+[INFO] 该要素编码均一致
+[INFO] 要素编码：fda762dd-b186-4c2c-bb84-ddc7274dce3b
+
+[INFO]   35/57306  嘉善县疾病预防控制中心
+[INFO] 该要素编码均一致
+[INFO] 要素编码：eab99610-e60c-4d98-b1f4-91705be25ff4
+
+[INFO]   36/57306  嘉善县第一人民医院
+[INFO] 共出现 2 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：b67fc1e2-a7e9-423c-9c14-04d2471ab84e
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：b8c7fac5-12b6-4c41-91a0-73090accbd8f
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   37/57306  嘉善县第二人民医院
+[INFO] 共出现 2 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：f70c1fb0-1f3a-4358-9706-51f9f50e83c2
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：4e05985a-e16d-499a-bfb1-d752d422c59e
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   38/57306  金华市疾病预防控制中心
+[INFO] 该要素编码均一致
+[INFO] 要素编码：b4a75271-36c3-45f0-a51e-009f22f9eb36
+
+[INFO]   39/57306  天台县疾控中心
+[INFO] 共出现 2 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：ad2187d7-cb30-4f53-9618-83e78c86a7a7
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：92878fb9-80d3-4f53-88da-7f5b02146e27
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   40/57306  嘉善县中医医院
+[INFO] 共出现 4 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：c3d08428-1e48-4ed5-859a-ae57cacae545
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：9efd031b-10fa-4ff1-abe9-a0af2c55a2ff
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：9e52c5b4-4e44-4553-b602-3dd524cf8c68
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 4 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：af684365-c1fe-45d2-b160-c44b7ff68c9f
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   41/57306  嘉善县妇幼保健计划生育服务中心
+[INFO] 共出现 3 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：53cdee0c-8122-4207-9b3e-17521a5e9496
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：d5650813-9047-44a7-8895-58fdec86dc43
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：7b3a26da-d61b-4c07-8a98-724441a046ab
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   42/57306  嘉善县魏塘街道社区卫生服务中心
+[INFO] 共出现 4 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：efb2677b-ba0b-4a54-a54e-78349bb680a4
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：85bf8ffc-cc50-4775-a564-4cf1a9e4be4c
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：f56f3afe-2390-4d14-a611-88bd51315d4d
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 4 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：3e47c176-73ed-4746-a3e3-db838b89b1c2
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   43/57306  嘉善县罗星街道社区卫生服务中心
+[INFO] 共出现 3 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：8171e536-3515-4099-b472-aaac2c0bcbd4
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：4c9d8569-9534-4dd7-b9d1-9044c5052e57
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：9248a18e-5439-47f8-8ccc-44d68f6988e5
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   44/57306  嘉善县惠民街道社区卫生服务中心
+[INFO] 共出现 2 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：b72cd46a-0177-4a85-92ea-f5b392f61c07
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：6f07ef88-fe41-45b0-9dc0-2e49f2ab58a8
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   45/57306  嘉善县大云镇社区卫生服务中心
+[INFO] 该要素编码均一致
+[INFO] 要素编码：18749914-d1f9-4423-a0e0-28a43032a160
+
+[INFO]   46/57306  嘉善县姚庄镇卫生院
+[INFO] 共出现 4 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：ff851b49-30d9-486e-ba33-7a9e5dc26443
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：c14e3035-bbb5-469a-b321-0c8c172fcacc
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：686eca91-a218-4839-a47a-b3655c410b49
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 4 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：cd050fff-4753-45d9-a9d5-8fb94d2369b5
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   47/57306  嘉善县陶庄镇卫生院
+[INFO] 共出现 4 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：040235fc-11a0-4ff3-a0d9-cfb1cb5485db
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：d7a5dc94-d4a6-440d-8e81-3685fda3db7e
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：5b18bf2e-2a33-439f-8e0c-40652993eb8e
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 4 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：ba92e322-78b5-4719-8ff3-bb5a4cce167b
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   48/57306  嘉善县天凝镇卫生院
+[INFO] 共出现 4 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：905f9d69-f54a-4c78-b37a-d97a7faa5fdc
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：097830c6-2767-4984-829d-c29632cb18f5
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：123b53d2-aeaa-4291-a894-d3693129b598
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 4 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：80745f6a-63d8-4e22-92b0-12c18ed0cce3
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   49/57306  嘉善县干窑镇卫生院
+[INFO] 共出现 4 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：6cba2f69-17fb-413b-bb16-0be254e74aeb
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：df0e7bfa-c8bb-40cf-9ecc-d85d1175c79b
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：47671d6b-2f7b-416e-ba44-eb993a8c5f41
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 4 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：bcde356b-a7f6-49a0-b126-d56e3d8d9c73
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   50/57306  嘉善县西塘镇卫生院
+[INFO] 共出现 4 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：90449c9a-ddd0-4846-86ca-110ab924e0fd
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：1c774253-2f58-4d36-8f34-e3f97abf5d2b
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：6eeb6515-5fe3-42a6-8cc6-34e84b60082a
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 4 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：09437a79-c13a-4d4c-b1a5-f0bb20b3466d
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   51/57306  绍兴市柯桥区疾病预防控制中心
+[INFO] 该要素编码均一致
+[INFO] 要素编码：d4d271ac-33e3-45a4-b014-f8f381e8e8aa
+
+[INFO]   52/57306  绍兴市中心医院
+[INFO] 共出现 5 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：cf1b3276-5df8-41a1-8d9f-25f00d628b8e
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：39b4911f-0783-46a7-9b86-88a4c0337cc2
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：02a34dbe-830a-402d-b61e-dbff751a5b89
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 4 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ydjylwjsyy
+[INFO] 要素编码：ca133f65-9272-4b1a-bc86-4e24c253fe04
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 5 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：5cfdad70-0e22-4ee8-893f-d7014689bdf8
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   53/57306  绍兴市妇幼保健院
+[INFO] 共出现 5 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：3e8f6b1c-aa3c-4e26-96ff-2786bc2db148
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：1fee8633-1622-43f4-83e2-b5f266e8a8e3
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：5be5f434-3379-42db-9774-802496ed1b0d
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 4 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：9a4d4f5b-5437-4641-8541-1d1838744a72
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 5 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_rlfzsyjg
+[INFO] 要素编码：3437c040-6b2f-425c-a8e6-739c0c024f23
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   54/57306  绍兴市疾病预防控制中心
+[INFO] 该要素编码均一致
+[INFO] 要素编码：a40f85fb-acae-4a7b-b270-48d8a88871e7
+
+[INFO]   55/57306  浦江县疾病预防控制中心
+[INFO] 该要素编码均一致
+[INFO] 要素编码：c4e81fa1-ff84-460f-8f10-2df5252db126
+
+[INFO]   56/57306  瑞安市疾控中心
+[INFO] 该要素编码均一致
+[INFO] 要素编码：efab00ad-25ba-47a0-a9e7-f6b3e695ac5b
+
+[INFO]   57/57306  永康市疾病预防控制中心
+[INFO] 共出现 2 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：e0105f38-65cf-40e5-bf5c-258956dd1435
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：37b23018-bfd9-47aa-8403-9f1f2229ae33
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   58/57306  绍兴市立医院
+[INFO] 共出现 4 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：7e09bf77-8d46-4b0c-8213-56400cac9614
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：a7473055-8a8c-44fd-8f0b-79b5091f0647
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：bb2e0403-43bf-42f1-a711-6f977986a19c
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 4 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：080b9e4e-72a4-4bff-8750-294cf0b07a97
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   59/57306  永康市第一人民医院
+[INFO] 共出现 5 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：e4acd921-6b80-4095-a1aa-27df6449a918
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：2bdb8ae8-6847-45cb-9141-8a2de7f68d82
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：bc48f233-c013-4b2c-864a-bb448d7f47a0
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 4 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ydjylwjsyy
+[INFO] 要素编码：fff47dfd-7e5c-484f-80b6-d8d62376badc
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 5 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：cbc3aa2e-a719-414d-b2b7-3f3a19fe5edf
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   60/57306  永康市妇幼保健院
+[INFO] 共出现 4 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：d64c5df7-6412-4c88-b400-23b843be8958
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：ce3db4be-30a4-441c-aa08-4f56b03b632c
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：b493a2e1-ee49-48bb-8650-892a6f7c8cbd
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 4 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：51bd3d45-8bdf-47bf-a917-203a0496dfb6
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   61/57306  温岭市第一人民医院
+[INFO] 共出现 5 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：f12c5294-390e-4360-9802-cbb3c1e1248f
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：5bc697fe-88a3-40e7-9464-4f6b92d84c3a
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：df2b4768-4911-4387-a4ac-e422b001a57c
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 4 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ydjylwjsyy
+[INFO] 要素编码：1fd34bc8-2a64-41cf-8b38-62819e2f76d3
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 5 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：ef1e637b-2e41-4404-a98f-b5095545dd7d
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   62/57306  温岭市疾病预防控制中心
+[INFO] 该要素编码均一致
+[INFO] 要素编码：83ebb78a-20a4-41d6-a877-fdea3380b2d3
+
+[INFO]   63/57306  温岭市妇幼保健院
+[INFO] 共出现 2 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：e8d265a1-43b8-424c-8831-19a94449aabf
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：e81e2ab0-f270-4377-897e-e440dc1fcf29
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   64/57306  丽水市妇幼保健院
+[INFO] 共出现 3 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：dcaad72c-8486-4d67-bc8d-7505792ae1d2
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：b62ab78a-da50-4a34-adac-2c132329a5d6
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：ee161b8b-0062-4f20-b58c-bff3bfcc50a7
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   65/57306  义乌市疾病预防控制中心
+[INFO] 该要素编码均一致
+[INFO] 要素编码：84137536-d4d4-4bd3-8b05-548154a8ade3
+
+[INFO]   66/57306  普陀区疾病预防控制中心
+[INFO] 该要素编码均一致
+[INFO] 要素编码：7985bbb3-a7cb-4040-be78-67567a10c919
+
+[INFO]   67/57306  磐安县疾病预防控制中心
+[INFO] 该要素编码均一致
+[INFO] 要素编码：5454c59e-e73d-407a-a070-8cef8d4b6662
+
+[INFO]   68/57306  浙江普陀医院
+[INFO] 共出现 2 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：430f7882-d233-4a0f-b6ac-7520df4570e1
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：e3db3fa6-097b-41cf-bfb8-5804b8f954bf
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   69/57306  平湖市疾病预防控制中心
+[INFO] 共出现 2 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：66215a74-c456-4948-ac26-cb6cf4411e9a
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：91bc37b8-4fa7-48bc-a4e4-80207acb82c4
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   70/57306  平湖市妇幼保健所
+[INFO] 共出现 3 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：c945830b-d2f3-4c6a-91c7-2d416846dcef
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：904e35e7-a969-4113-be3b-d5aaa9105a6d
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：2f987629-fbba-4361-8e62-913ab5a235d4
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   71/57306  平湖市第二人民医院（上海市东方医院嘉兴港区医院）
+[INFO] 共出现 2 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：9cdee12e-0a30-4221-8f38-d6bba30f1c81
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：28756a5f-d8c2-4642-94e3-e95df02c3685
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   72/57306  丽水市疾病预防控制中心
+[INFO] 该要素编码均一致
+[INFO] 要素编码：c9cc5831-382c-43ca-a85c-b611ec6c2ef7
+
+[INFO]   73/57306  岱山县第二人民医院
+[INFO] 共出现 4 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：4b8b9fa6-4a99-4cf9-8a5f-3943f2b99944
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：ff3a2104-73c1-4a84-a557-ab06adf02857
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：019b630e-bcf7-4dac-84cd-fde51c90a71e
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 4 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：6e5d5536-bde2-4d02-b36a-31c4747ce0a2
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   74/57306  岱山县妇幼保健与计划生育服务中心
+[INFO] 共出现 3 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：58061eec-ac94-46b9-aeb5-2b02b307a61e
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：06685208-b67b-4528-b277-04a165ac3094
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：440b9c55-d56b-4524-9d3d-b07910b579bb
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   75/57306  岱山县疾病预防控制中心
+[INFO] 该要素编码均一致
+[INFO] 要素编码：3bb25fda-573e-4082-a462-226d401463d4
+
+[INFO]   76/57306  嵊泗县疾病预防控制中心
+[INFO] 该要素编码均一致
+[INFO] 要素编码：bc05d577-0cb5-4082-a379-67d0aac5624d
+
+[INFO]   77/57306  诸暨市人民医院
+[INFO] 共出现 5 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：3457c933-6605-4d38-a78c-12de57494afb
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：ab3f74e2-8a47-49fe-8a4f-dd4bb4467f6f
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：e2c78644-e148-4b84-ae2d-f033370cb627
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 4 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ydjylwjsyy
+[INFO] 要素编码：dbb8e933-ee80-4269-8917-7b491dacd5a6
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 5 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：25e4080d-ad5b-4ce9-a82c-c92c15555e47
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   78/57306  诸暨市妇幼保健院
+[INFO] 共出现 3 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：3198d8a5-e383-44c6-9a93-985bbefbef1f
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：6614da49-edc2-4fbd-9582-cc7240534816
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：db4632e8-ae19-4f94-a0e2-958279d69b0c
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   79/57306  诸暨市疾病预防控制中心
+[INFO] 共出现 2 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：4f13dcad-da7d-458f-8e2b-5684dd10d903
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：bb91566a-776f-4fdf-835f-7d306b1f82c4
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   80/57306  秀洲区疾病预防控制中心(VCT)
+[INFO] 该要素编码均一致
+[INFO] 要素编码：defa7ffe-798f-4929-a138-ac8db80c8798
+
+[INFO]   81/57306  嘉兴市王店人民医院(VCT)
+[INFO] 该要素编码均一致
+[INFO] 要素编码：56867c4f-6cad-4e3b-85e8-6df7302d8ea3
+
+[INFO]   82/57306  嘉兴市秀洲区王江泾医院(VCT)
+[INFO] 该要素编码均一致
+[INFO] 要素编码：165bd078-08a1-4e91-99a0-f64f0c7b2fef
+
+[INFO]   83/57306  嘉兴市秀洲区新塍医院(VCT)
+[INFO] 该要素编码均一致
+[INFO] 要素编码：32773073-a7a8-4e02-bb6d-317525b3574d
+
+[INFO]   84/57306  秀洲区妇幼保健院(VCT)
+[INFO] 该要素编码均一致
+[INFO] 要素编码：70f8881c-6d4e-498d-adf7-a123b7e253d8
+
+[INFO]   85/57306  湖州市南浔区疾病预防控制中心
+[INFO] 该要素编码均一致
+[INFO] 要素编码：50d41731-12d6-412d-a11e-0a865b83d6d7
+
+[INFO]   86/57306  湖州市南浔区人民医院
+[INFO] 共出现 3 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：2c465fdd-4f96-4630-a107-f83290bbf740
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：fc3c5df7-29e9-4431-8f2f-38650bc8edf9
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：5e0f9e6c-c70f-4adb-9eed-c36564406c85
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   87/57306  宁波市海曙区望春街道社区卫生服务中心（望春）
+[INFO] 该要素编码均一致
+[INFO] 要素编码：8898a8a3-a142-493f-9cf4-ef83546da6a6
+
+[INFO]   88/57306  宁波市海曙区疾病预防控制中心
+[INFO] 该要素编码均一致
+[INFO] 要素编码：8afe9fd2-6f04-4874-a434-4cb8abb91464
+
+[INFO]   89/57306  宁波市海曙区妇幼保健院
+[INFO] 共出现 2 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：812f9713-ae24-4001-8247-3cdafd484456
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：5de56770-a4a4-4ac8-b99c-36a64f81700f
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   90/57306  舟山市疾病预防控制中心
+[INFO] 该要素编码均一致
+[INFO] 要素编码：45db4623-730a-406c-a2b5-20438dcbfeb1
+
+[INFO]   91/57306  磐安县人民医院
+[INFO] 共出现 4 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：3036639d-c148-4549-a4c9-12bae713cfac
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：bab4a757-e063-41b1-a01a-464e3f7203cb
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：3d09960b-b51f-49e0-a622-04de6edbe3c8
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 4 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：8bf62226-5f21-4407-a053-813a0864221e
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   92/57306  磐安县妇幼保健计划生育服务中心
+[INFO] 共出现 3 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：fd71cc51-ab2a-4a63-9a99-8ee507a9e074
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：202c7d86-d3c2-482c-91b2-ce00a2ae6b31
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：5e259f59-228e-4c7e-ba5c-552f4b3ad383
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   93/57306  江山市疾病预防控制中心
+[INFO] 共出现 2 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：98898271-f623-45c2-aa15-1475a41d195e
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：b38aea9f-ecac-4eb3-a381-dc132751f467
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   94/57306  慈溪市疾病预防控制中心
+[INFO] 该要素编码均一致
+[INFO] 要素编码：4ef62b18-a820-4c1d-bd0f-af9c1130ef6d
+
+[INFO]   95/57306  宁海县疾病预防控制中心
+[INFO] 该要素编码均一致
+[INFO] 要素编码：0374d53d-2c09-450b-9dfd-623cb71a1511
+
+[INFO]   96/57306  慈溪市妇幼保健院（婚检中心）
+[INFO] 该要素编码均一致
+[INFO] 要素编码：e2dfc633-1caa-48bf-8eb8-a2455bf713c7
+
+[INFO]   97/57306  慈溪市皮肤病防治站
+[INFO] 共出现 3 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：2f003265-1473-4b71-8e18-db197235551f
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：daff8097-d8fb-4f8a-9a67-011866abec77
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：059ed019-69d3-48c5-b6a9-3c164537e096
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   98/57306  慈溪市第三人民医院
+[INFO] 共出现 4 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：8212c7d5-ee0e-4cd2-aa20-70850cf88fed
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：2a2b0b68-3285-45ca-83d9-0d38f63ccd8e
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：bad2c58c-f1af-4916-aef9-d8a0ad24c9ab
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 4 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：59b0cb75-6858-4ce9-b212-4708122e6ad8
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   99/57306  宁波市镇海区妇幼保健院
+[INFO] 共出现 2 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：c5287ba6-846f-41e9-b6f7-07dbdb9c94ae
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：19be6034-f1d6-4850-af7d-8c1db40c434a
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   100/57306  宁波市镇海龙赛医院
+[INFO] 共出现 5 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：ac2d76c8-4fc5-48d2-b84b-571e55e0e52d
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：b6e92bf4-8930-4d50-88fc-a99fedeacf4f
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：4beecae1-ce70-4732-945b-d785770e5350
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 4 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ydjylwjsyy
+[INFO] 要素编码：5a92b048-2ad2-4c12-bc32-00534fbb0bac
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 5 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：f7637ded-646e-4cdd-8874-36dcc5377ef9
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   101/57306  宁波市北仑区疾病预防控制中心
+[INFO] 共出现 2 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：5f5a766c-6a99-4f8f-a7a8-083f350ee49e
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：530994f6-56e4-45e9-92b0-672554bbf2d7
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   102/57306  宁波市北仑区妇幼保健院
+[INFO] 共出现 3 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：1e4590fc-8013-4c3e-af95-a32df150d4a3
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：7641633a-7d11-44e0-9af8-04e8f3794b59
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：3cf1215d-5c22-41f1-98fc-83f480c05f2b
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   103/57306  宁波市北仑区人民医院
+[INFO] 共出现 4 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：1989901d-bc1d-45eb-b7a2-efc597580be4
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：3138306b-4e8e-4588-8a84-ac6bbefc6069
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ydjylwjsyy
+[INFO] 要素编码：67e3b1df-88b2-4e8d-aa8a-69fc9056b84f
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 4 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：24817ebb-5e47-4277-b054-1259bb42b32b
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   104/57306  衢州市第二人民医院
+[INFO] 共出现 3 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：fc90dfce-7b68-4249-b775-b954d5b28578
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：a66efeb5-1f6c-41c7-aacd-af09ce2a9b38
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ydjylwjsyy
+[INFO] 要素编码：1e73fb60-ffe5-4fe0-b630-59d282bfb6db
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   105/57306  衢江区疾病控制预防中心
+[INFO] 该要素编码均一致
+[INFO] 要素编码：1148a15d-6b3b-495f-8221-79b716e5db1c
+
+[INFO]   106/57306  宁海县第一医院
+[INFO] 共出现 4 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：a3d57f3a-060b-4147-bb44-bde81ea32ead
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：20960c98-2005-4011-9965-4b2456f666aa
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：60e48979-3dac-40d3-a2f6-9faa436e21c8
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 4 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ydjylwjsyy
+[INFO] 要素编码：65d36048-1a57-4260-a953-11471ee36bf2
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   107/57306  宁海县妇保院
+[INFO] 该要素编码均一致
+[INFO] 要素编码：4e5a9dd4-acd0-4bf5-bde2-e4f0133890c8
+
+[INFO]   108/57306  东阳市人民医院
+[INFO] 共出现 6 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：dbfcb749-523d-4dfc-9e68-a5f2947b77c7
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：ae908ff9-5713-42a5-bfc4-0f9f52330637
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：da9b0046-12be-44d6-b6bc-039d34ac572d
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 4 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ydjylwjsyy
+[INFO] 要素编码：cc309e4c-18fc-44ed-a7cc-e104940ac14c
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 5 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：ffaa54d8-48f2-46b9-9422-19bbe61d3bd2
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 6 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_rlfzsyjg
+[INFO] 要素编码：71ad99a9-2b95-4310-9389-285cdb830460
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   109/57306  横店文荣医院(横店集团医院)
+[INFO] 该要素编码均一致
+[INFO] 要素编码：ad8f934c-c789-4aae-965d-8e4f91e2d443
+
+[INFO]   110/57306  东阳市横店医院
+[INFO] 共出现 5 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：67d540f7-4ed3-4c2b-af21-d4e08cd116f0
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：b0f94f5e-a4cc-49d7-a77a-d1cfbfd12cd6
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：63e69c8d-8c3f-4c22-88b8-cec0bb1574e9
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 4 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ydjylwjsyy
+[INFO] 要素编码：9af7c259-67d2-4f40-a40d-98b770db484b
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 5 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：e146adbf-8023-448b-bdec-ddc51378be6f
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   111/57306  东阳市中医院(新院)
+[INFO] 共出现 4 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：16186298-16cf-48a2-8320-aaa16f8b782c
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：b88e5647-8980-4c42-b34d-634cdaf6d7b1
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：5e6cbf0b-26fd-4702-9fc6-277196b5a705
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 4 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：dcb1d3e4-3e85-40ff-864e-bde28bf1f58e
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   112/57306  东阳市人民医院巍山分院
+[INFO] 共出现 5 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：ebddf9c2-fc1c-4ece-9977-0378340e8d6a
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：c88a4360-4f37-4c14-a406-b531e538503f
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：3193f057-c3ca-4bb0-961b-9ce2ae8e2192
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 4 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ydjylwjsyy
+[INFO] 要素编码：3b802bb2-cb4d-40b3-b19e-4e2489806c92
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 5 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：19c27576-7de5-489d-a59e-b22b28d2def8
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   113/57306  东阳市皮肤病医院
+[INFO] 共出现 5 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：b1686bee-8e2c-434c-8008-8e86457f2996
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：8aba7093-f3b6-40d9-acb7-1a5f40daa885
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：97e5b07e-27b3-4654-a049-c9770358c5c9
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 4 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ydjylwjsyy
+[INFO] 要素编码：fd187c74-4678-43eb-a9a8-86e748c039cc
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 5 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：32227d3d-b65e-4ff9-94e6-79118eb40f73
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   114/57306  东阳市红会医院
+[INFO] 共出现 2 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：d36813fd-749c-4050-8873-5056be9975b1
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：ad131be3-8757-4178-82a9-3a97e60adba7
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   115/57306  东阳市妇幼保健院
+[INFO] 共出现 5 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：2b4ce7de-a5e3-488c-91c9-3b1767a22e30
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：38cb37f2-f738-4f9c-86ce-0b6810eaf3d5
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：10880718-4784-4a1d-b5ff-e81c841154a1
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 4 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ydjylwjsyy
+[INFO] 要素编码：9402b06e-6fe8-4ac3-9a81-0ec33fd5b73d
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 5 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：5035c406-0447-4a15-9092-7c47b07af932
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   116/57306  东阳市疾病预防控制中心
+[INFO] 该要素编码均一致
+[INFO] 要素编码：75f7d789-83e5-46e8-9f76-c5a61a9cbe88
+
+[INFO]   117/57306  嘉兴市第二医院（皮肤医疗美容科）
+[INFO] 该要素编码均一致
+[INFO] 要素编码：4c79619e-b14e-4f0e-869c-a3c4102a21ec
+
+[INFO]   118/57306  庆元县疾病预防控制中心预防医学门诊
+[INFO] 共出现 2 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：18be58e9-2e2b-4ccd-843f-cd469e7a9eff
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：40e43305-5cc4-4c38-9671-0046671a4a7d
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   119/57306  嘉兴市南湖区东栅街道社区卫生服务中心
+[INFO] 共出现 3 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：981dae5f-55ef-43d0-a7a2-85cdb9194cd6
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：7f47bfdf-362d-4049-826f-4712d64dfb79
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：05f29038-d341-407a-b868-a9de35f6d627
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   120/57306  嘉兴市南湖区七星街道社区卫生服务中心
+[INFO] 共出现 3 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：d3fd5119-9d63-4e11-8411-1802c9a2c3b3
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：33dbc533-dd82-4d2e-97ce-f872af80c39b
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：7e076522-bb05-4340-9100-766e41958402
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   121/57306  绍兴市上虞区皮肤病防治院（绍兴市上虞区性病防治中心）
+[INFO] 共出现 3 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：0ebd2ed9-3188-4f8d-a964-63ea01424f8f
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：3454a23f-3e10-4936-83dc-42eb3cf47957
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：c808944c-7ad6-4c24-9a25-c619a57b7ed4
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   122/57306  绍兴市上虞区梁湖镇卫生院（绍兴市上虞区梁湖镇社区卫生服务中心）
+[INFO] 共出现 3 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：e7af8537-eb45-409e-9ec4-d7e2cedc6c58
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：51ff0a07-5b6b-42b2-af04-d33bfdb14913
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：8e6e6100-6a31-475a-bad1-7e0caf02c68d
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   123/57306  安吉县疾病预防控制中心
+[INFO] 共出现 2 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：ef3c3f8e-1d5d-4af3-a2b2-fe10681b3e94
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：df795d6a-cde4-4e30-bca7-8dc376fc3207
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   124/57306  嘉兴市南湖区新嘉街道社区卫生服务中心
+[INFO] 共出现 3 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：821e51ca-d0d7-4307-8352-b0cbc8aabdea
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：5f891847-9e50-46b9-8b91-17a3edd3919d
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：3b2b714f-a65e-486b-8d97-a550fdbc0b79
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   125/57306  龙泉市疾病预防控制中心自愿咨询检测点
+[INFO] 该要素编码均一致
+[INFO] 要素编码：b800bbbd-1477-4ee2-83ac-6a4f620aef26
+
+[INFO]   126/57306  龙泉市人民医院自愿咨询监测点
+[INFO] 该要素编码均一致
+[INFO] 要素编码：3bfd4fe6-7ee5-4dc8-a06a-603d689071ae
+
+[INFO]   127/57306  龙泉市妇幼保健所自愿咨询监测点
+[INFO] 该要素编码均一致
+[INFO] 要素编码：7c8a1496-de4d-4ad9-b54c-eca0cc42dab6
+
+[INFO]   128/57306  景宁县疾病预防控制中心
+[INFO] 该要素编码均一致
+[INFO] 要素编码：1923c543-2460-4b22-8f81-4cafcb774e15
+
+[INFO]   129/57306  景宁县人民医院
+[INFO] 共出现 5 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：3579b975-d3db-4fc3-8afc-3dcd73f2b967
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：1019cd7b-d6b9-4015-8f1e-7490e4896d91
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：073ce760-6f4f-4294-a25c-e56876d1823d
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 4 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ydjylwjsyy
+[INFO] 要素编码：b825d9a3-3ef0-4a7f-b70c-b080644a9720
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 5 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：7f662f24-0be3-4f8b-86fd-f274c6b92353
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   130/57306  景宁县妇保所
+[INFO] 共出现 2 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：fa60a3dd-ce02-471c-803c-7fb5c4e73577
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：9a3d6470-c902-4295-ad82-f0b752aa2a11
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   131/57306  云和县人民医院
+[INFO] 共出现 5 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：ba25c5cc-46da-4b37-b1f8-68d4019e72fe
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：3dd2f72c-628f-49bd-9088-2ed27aebac3e
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：9a47b2de-bd08-4401-bf3e-ab9665288400
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 4 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ydjylwjsyy
+[INFO] 要素编码：224ae762-52b2-4848-9e3b-1011213d1db5
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 5 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：48775018-713f-4e01-ab41-8dca6b0e1d11
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   132/57306  安吉县人民医院
+[INFO] 共出现 5 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：55f33aea-d5b8-494a-9da4-b501001e4104
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：e8280f71-bbd7-4a3b-b9f0-d49ae0f59347
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：28726215-bc25-4c28-adc8-cba143ea0fe6
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 4 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ydjylwjsyy
+[INFO] 要素编码：412cb61a-6400-4995-8491-54e8818e3776
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 5 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：ecd3b039-859a-435f-b8b9-500fc235b172
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   133/57306  绍兴市上虞人民医院
+[INFO] 共出现 5 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：b8bacd9d-0993-49b5-add9-2df881df6452
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：677ac38a-36c3-4c0d-bc95-ad238e7ecd2c
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：a7210149-bb09-4bae-8ec6-84018603ea9e
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 4 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ydjylwjsyy
+[INFO] 要素编码：f0b0707c-c7d9-41bd-9111-3ec5da140844
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 5 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：9b8b82e1-bba7-45e4-a8f9-75fc7de01ce7
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   134/57306  诸暨市陈宅镇卫生院
+[INFO] 共出现 4 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：9a88d1cb-2970-4829-bd02-8e5f3ce17f76
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：6c34c3e6-48f2-464b-9800-6479acf9adbb
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：6211da8a-b712-4a35-83ea-c588d48c080e
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 4 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：47572ee4-bd35-4c15-a60f-50345717d3d5
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   135/57306  开化县人民医院
+[INFO] 共出现 3 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：7fe75820-b4b3-4871-b25d-3f20fe2c47d3
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：7e39c244-73d0-452f-a16f-0dec19aaf57c
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：bd3817dc-d569-4de4-b7fa-9dcde703100c
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   136/57306  开化县妇幼保健院
+[INFO] 共出现 4 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：1066bd73-050c-4eef-b2ec-c24564a3455a
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：c18aa863-339d-4b2e-a194-e667c6a71e55
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：4c23360d-53f7-4d73-be29-e018a3e7dff7
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 4 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：02a22e71-6e2c-4408-a717-93a1505568bd
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   137/57306  绍兴市上虞区疾病预防控制中心
+[INFO] 该要素编码均一致
+[INFO] 要素编码：560382ae-1fec-4a4b-9ded-60eb9849a785
+
+[INFO]   138/57306  岱山县中医院
+[INFO] 共出现 4 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：84d6cb06-4500-494c-b42b-89edef661a1a
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：7275947c-f1d5-4884-9843-2613b696a3a6
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：5f9ad7ee-1aff-4bf8-b71c-0874dfe02c6a
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 4 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：9f596afb-284c-47e0-9cff-32caf1db7dcd
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   139/57306  岱山县第一人民医院
+[INFO] 共出现 5 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：535de416-0e4c-4ed7-bcc3-a48e505e4f48
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：bf512671-e557-4eff-9e8f-2a1bf62fad53
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：b4bd5367-b20b-4018-aa01-8d849b5d10e2
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 4 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ydjylwjsyy
+[INFO] 要素编码：2ed32270-15a2-487f-b32a-e9d692530ac1
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 5 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：da5eb0c1-4d8f-460d-8e52-4d6125a719b5
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   140/57306  绍兴市上虞区长塘镇卫生院
+[INFO] 共出现 3 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：0c4e8e83-56bc-4b11-85dc-f9e72df43e73
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：f708168c-ab8b-41c3-83f6-d1408af94344
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：4fbf7833-87b6-459e-8927-ceaa04764853
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   141/57306  松阳县疾病预防控制中心
+[INFO] 该要素编码均一致
+[INFO] 要素编码：42e79608-25ec-4ef2-be4d-2bc939faa449
+
+[INFO]   142/57306  松阳县人民医院
+[INFO] 共出现 4 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：c02e8c6e-049d-4b1b-9002-131307291928
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：b0df04ce-73f4-4562-aa4e-9f4999745a28
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：08574cd3-0f2b-47e7-8014-631cc9d5d82e
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 4 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ydjylwjsyy
+[INFO] 要素编码：ab95be61-d8c3-4b93-8a72-3aded7932cde
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   143/57306  嵊州市人民医院
+[INFO] 共出现 2 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：f4d57b02-6a3a-46d1-a029-25c75cb9939d
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：0228d1b3-7f17-4285-8b42-e514b3383a7f
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   144/57306  嵊州市疾病预防控制中心
+[INFO] 该要素编码均一致
+[INFO] 要素编码：e1918839-d3a4-43b0-8fff-f461883a6778
+
+[INFO]   145/57306  嵊州市妇幼保健院
+[INFO] 共出现 5 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：e8d680d4-3f90-4adf-b774-52cdeccdb157
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：48f78dc6-1a5a-49d7-9fa3-4be4123cf6cf
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：3babe19d-6c0e-4e65-b4c1-666d786ba3c8
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 4 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ydjylwjsyy
+[INFO] 要素编码：6394cfa0-4066-4069-a904-8fc51677e5fb
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 5 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：9d7649bd-a08f-4488-a1ad-bd74b0134bf1
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   146/57306  临海市妇幼保健院
+[INFO] 共出现 4 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：275ec845-b050-4bf1-ac1e-d21085a3aa43
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：e5a6f876-6204-460b-b900-fb0595d35f4d
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：30ff9932-f5b5-4af6-a4be-6a17238dbd55
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 4 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ydjylwjsyy
+[INFO] 要素编码：b2551f05-cdcf-4bb6-bdec-84aa275da8f7
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   147/57306  临海市第二人民医院艾滋病自愿咨询检测门诊（VCT）
+[INFO] 该要素编码均一致
+[INFO] 要素编码：23e85c42-0eda-4709-9da5-387ea50646e8
+
+[INFO]   148/57306  临海市第一人民医院关爱门诊
+[INFO] 该要素编码均一致
+[INFO] 要素编码：53a78e92-3b0f-44a3-b1f5-fceff6acea54
+
+[INFO]   149/57306  临海市中医院检验科
+[INFO] 该要素编码均一致
+[INFO] 要素编码：2e469984-4727-443d-ac72-1538d404574d
+
+[INFO]   150/57306  临海市疾病预防控制中心
+[INFO] 共出现 2 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：07ba320d-5ad4-4327-acc7-e911120c650b
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：60f2e71d-ba60-4ed3-b62f-9092333c6005
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   151/57306  海宁市疾病预防控制中心皮肤病门诊部
+[INFO] 共出现 3 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：d5c2ac4f-54b3-4276-a2f6-36fda72b5cc1
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：b2bbf96d-1cbd-4aef-a7d3-2644ea33a233
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：b8228201-406e-483e-826b-4a6edce116d0
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   152/57306  海宁市疾病预防控制中心
+[INFO] 该要素编码均一致
+[INFO] 要素编码：a8c4224c-f020-4d1a-8ec6-b050c8f4c1a9
+
+[INFO]   153/57306  海宁市人民医院
+[INFO] 共出现 5 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：b9ba12b4-a898-4e04-af01-dd97439f3e32
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：f382dd67-961f-4939-bef9-f8740334bf03
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：ced55f1e-20ec-4c46-8f3e-aff23b86e11a
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 4 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ydjylwjsyy
+[INFO] 要素编码：9ec6430e-6aa4-4663-b15f-6ffed408b09d
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 5 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：bcabc126-4fd4-42c6-b0c9-9318e6f83783
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   154/57306  海宁市妇幼保健院
+[INFO] 共出现 3 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：3da9ef8e-d2e0-48fe-b3d0-b59566bb32d0
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：1277a119-2f22-49ae-90f5-26e0a6dd0fa1
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：45d285a5-9482-4244-a7fa-94f5ec0db8cd
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   155/57306  海盐县疾病预防控制中心
+[INFO] 该要素编码均一致
+[INFO] 要素编码：558d15a3-8ec9-41a0-921e-27ceb6d191e1
+
+[INFO]   156/57306  宁波市第九医院
+[INFO] 该要素编码均一致
+[INFO] 要素编码：76b15963-753d-44d7-b757-4acdae58b6f7
+
+[INFO]   157/57306  宁波市江北区疾病预防控制中心
+[INFO] 该要素编码均一致
+[INFO] 要素编码：300a9f06-87fd-4838-a700-f96b6b97e483
+
+[INFO]   158/57306  宁波市江北区白沙街道社区卫生服务中心
+[INFO] 该要素编码均一致
+[INFO] 要素编码：08dbaaf7-f07d-45ab-93f0-88fb266f40c1
+
+[INFO]   159/57306  宁波市江北区文教街道社区卫生服务中心
+[INFO] 共出现 2 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：21c26478-8f50-4615-9c06-3092d90e13dc
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：f267062a-7aa5-4efb-9bb4-13fd58471412
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   160/57306  宁波市江北区孔浦街道社区卫生服务中心
+[INFO] 该要素编码均一致
+[INFO] 要素编码：44482748-afc5-45c5-86d8-e8aace83113e
+
+[INFO]   161/57306  宁波市江北区姚江社区卫生服务中心
+[INFO] 该要素编码均一致
+[INFO] 要素编码：2d79bc53-090e-4fba-aaeb-ada024c1b0bb
+
+[INFO]   162/57306  宁波市江北区甬江街道社区卫生服务中心
+[INFO] 共出现 2 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：d9597b4f-2a8d-45cf-bd43-d066d750d640
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：6f167af0-0846-41ba-adaf-3ef233bf8ad7
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   163/57306  宁波市江北区庄桥街道社区卫生服务中心
+[INFO] 该要素编码均一致
+[INFO] 要素编码：88f87ca8-40ef-4129-9b1b-175467a26ee5
+
+[INFO]   164/57306  宁波市江北区洪塘街道社区卫生服务中心
+[INFO] 该要素编码均一致
+[INFO] 要素编码：2b7ab6f8-352f-4289-ad7e-d151761ab3f0
+
+[INFO]   165/57306  宁波市江北区慈城镇中心卫生院
+[INFO] 该要素编码均一致
+[INFO] 要素编码：74253649-1cc1-4a81-ac29-4e25f32961fc
+
+[INFO]   166/57306  江东区疾病预防控制中心
+[INFO] 该要素编码均一致
+[INFO] 要素编码：aee97c7f-d899-4525-b4ae-ab35344389ff
+
+[INFO]   167/57306  宁波市江东区妇幼保健院
+[INFO] 共出现 2 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：3a8aad68-fef6-425a-a438-fd0fd21c67dd
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：0698de4e-4319-4622-822a-2b5ce619b52a
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   168/57306  宁波市第六医院
+[INFO] 共出现 5 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：251af363-c66e-458f-9d0f-37a9396a070f
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：97f7acc9-1918-4c86-afba-e542b9620941
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：2acb30c4-4cc1-409f-8956-41a8a5b80b7b
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 4 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ydjylwjsyy
+[INFO] 要素编码：13020885-ecee-43f3-b412-3ed8cc51e109
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 5 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：6ed8895e-e4c8-4a09-bee2-c7248b2e47b3
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   169/57306  慈溪市庵东中心卫生院
+[INFO] 共出现 5 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：dcc2e3d9-a1e9-40ae-a9f5-dbb9e927249f
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：17d7261c-1e5b-46b1-9bc2-594c9a8942dd
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：0421404b-ae89-4e78-9732-7b9962190d67
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 4 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：f5965338-7241-4da7-b357-e04c5548ae77
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 5 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_rlfzsyjg
+[INFO] 要素编码：e7467a30-cfd5-43c7-9cd8-846d2eacacdd
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   170/57306  缙云县人民医院
+[INFO] 共出现 4 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：5ddb6d71-ce68-42df-8ed6-cb345c4dc278
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：77affb18-fae8-4759-8310-fadf775c4669
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：d58302fe-848d-4d46-9518-643fcb360437
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 4 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：5269e83b-c2a1-4155-8cda-6223740652e6
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   171/57306  龙游县疾病预防控制中心
+[INFO] 共出现 2 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：24772cfa-bf38-400c-bf5e-1a0bad1d6c8d
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：dffb5ad1-7da9-42c7-b94b-ab5a845ffbd6
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   172/57306  龙游县人民医院
+[INFO] 共出现 4 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：4070b431-a8ae-446c-bcdb-99fa30dd199c
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：1047d21a-00ab-4a71-9166-548e869d97de
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：88801d13-7870-413e-af68-5b5f93a79502
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 4 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ydjylwjsyy
+[INFO] 要素编码：0f2d0de6-0265-4e01-8347-012e3d2990de
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   173/57306  龙游县妇幼保健计划生育服务中心（龙游县妇幼保健院）
+[INFO] 共出现 4 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：a17bbd61-f93a-4149-bdf9-25d9b9745a43
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：18106886-994e-4068-8d28-e3e9e106d294
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：b57d99f8-7a52-4364-97ab-48f4a976ae95
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 4 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_rlfzsyjg
+[INFO] 要素编码：73819f2c-dabf-44f8-9741-1fd93544025d
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   174/57306  龙游县中医医院
+[INFO] 共出现 4 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：e82adc7b-ca3a-42ed-b874-db87b0dba8eb
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：e9da4f00-2cea-439d-86e2-5102000cf8f4
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：4d3c0bfe-22ef-4de0-865f-a29ca9ccff90
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 4 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ydjylwjsyy
+[INFO] 要素编码：146d8bf3-2b07-496a-8c82-6223c9a1e3d9
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   175/57306  龙游县湖镇中心卫生院
+[INFO] 共出现 4 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：ae3371a3-da3a-4bff-a142-86bf4ba86df2
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：49d594bb-9b6c-4e12-b21a-faa521c47cc5
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：34b1d056-fa76-49a4-bddf-5624cb0f1e82
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 4 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：11c7e416-b8d4-4011-8de2-19434b924b8d
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   176/57306  龙游县溪口中心卫生院
+[INFO] 共出现 4 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：f4d74814-f360-4504-b567-2f0061d8c558
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：b1f897da-32a4-40b4-8a24-1b9d23cdc9f8
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：0d2be62c-a0c4-438a-8720-2186a5850ff0
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 4 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：20f5cb8e-4907-4007-b7ca-10f970c431e0
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   177/57306  龙游县塔石中心卫生院
+[INFO] 共出现 4 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：253a9847-69e7-4d4b-9f2f-86dce9bb5a0a
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：deff975f-e8c1-40d7-906a-20224f4849bb
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：d1f3943c-8066-4794-bfa5-43cf0807a3e2
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 4 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：f03cab45-1880-42a6-a400-d00adfc7ba74
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   178/57306  龙游县社阳乡卫生院
+[INFO] 共出现 4 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：0cff1e40-c4a4-413f-9701-f79fe158fcb1
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：fb8b5b49-79a7-4790-990b-c4114f9831e5
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：7ddcee52-b51c-4806-b274-6a5adb612cdd
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 4 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：3f00b456-9c6f-4ae7-b332-65b2e681cbde
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   179/57306  龙游县罗家乡卫生院
+[INFO] 共出现 4 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：615632a6-fb7a-4f64-9924-96e6e1df65b5
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：3e969818-8c2d-42e2-85d3-a6067bbd4026
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：bf92dc54-a722-49a7-ac17-376de6c501a8
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 4 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：5f28a6bb-543f-4f64-96ef-2e014a0cef75
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   180/57306  龙游县庙下乡卫生院
+[INFO] 共出现 4 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：1167f533-f4a7-4c74-9b1e-a231248f55ae
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：5295284e-136f-4486-bc44-16fa763805be
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：89c22162-4f4b-47e9-a17c-1b7fd32e09f0
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 4 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：b5a7dcbe-2414-439e-8d08-0ee31cdfc4eb
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   181/57306  龙游县东华街道卫生院
+[INFO] 共出现 4 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：d40906ae-44f5-4841-a0a5-28c9693d3faf
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：e69c1d26-0f35-4ddc-931b-a6f9429b89db
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：64dcd35d-a327-444a-afa4-6ba3c30ee65e
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 4 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：c772814d-be99-4343-8071-02a08ea71ddf
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   182/57306  龙游县龙洲街道卫生院
+[INFO] 共出现 4 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：1c28d61f-176c-409d-8366-eb0f2e083519
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：74535045-15b0-4f5a-a2bd-178df99879b3
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：ca557bfa-5db8-4875-bbdb-1ab859737745
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 4 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：810f2b5f-b1cf-43dd-b888-6426e6a26fad
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   183/57306  龙游县大街乡卫生院
+[INFO] 共出现 4 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：f422164a-dc4e-468b-9479-b6a8d105c398
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：2e8c0dad-750a-4023-9d2b-7e14e6713380
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：2a484a87-7797-4e83-bcc8-959dfc9ece37
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 4 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：f09995f1-9fed-4be7-91c3-05d8e34ed0aa
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   184/57306  龙游县詹家镇卫生院
+[INFO] 共出现 4 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：ff10e13b-6b1c-4ba2-a588-060f381928c9
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：44f5c48d-3497-41c7-9b2f-b9faf88b703c
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：c284758b-0781-4d30-9e09-d0429f61188e
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 4 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：32653dc0-ba88-497a-a0f8-dbcc5f8f4a47
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   185/57306  龙游县石佛乡卫生院
+[INFO] 共出现 4 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：b34f1613-795b-4937-b99f-fa64aecc9948
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：29fbfeb4-92bf-41e6-a038-585eb0959581
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：1da13710-8e1e-44c6-ba1b-d54af8472ff3
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 4 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：01a7eed8-74a5-4494-8a19-2b77ea57bd56
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   186/57306  龙游县模环乡卫生院
+[INFO] 共出现 4 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：b14881ee-b1d6-4ddc-9196-5c2cd2650804
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：3fb8156b-84db-4a5c-b9fd-1ab14236abb7
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：1302728b-4922-47a0-b509-8fff998f4321
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 4 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：4e62c8b0-2a73-4a35-ba36-84afedda5b13
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   187/57306  龙游康民医院
+[INFO] 共出现 3 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：27a1c07a-3b60-4ad0-945c-a00dd16d2bb9
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：febcf512-f8fb-4c16-a439-3d0dc47e4801
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：04f97ab1-9ab2-4b21-88cf-9231d80f184a
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   188/57306  龙游肿瘤医院
+[INFO] 共出现 3 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：e27576ef-7ce5-474b-8e91-7aa74a448c39
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：50e10ab2-4ec9-41f3-b9cc-2808da06fbd7
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：d9b052f2-b058-40e1-a717-2a33cefae15d
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   189/57306  龙游骨伤专科医院
+[INFO] 共出现 3 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：c5402198-7810-4191-9296-576a54d7de4b
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：cdd17f54-12d2-454b-9b3e-642b69ff591c
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：135fe752-f8eb-4cb4-a0e5-6504e6064b60
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   190/57306  龙游红会医院
+[INFO] 共出现 3 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：ee77fd71-0c9f-4f2e-a4f6-139bd80d1f74
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：797f0e43-e85d-4a33-8d26-8b5d006ee035
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：311d05b8-7a86-4df8-bd10-b73e4d5e1667
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   191/57306  龙游商业职工医疗门诊部
+[INFO] 共出现 2 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：eda9a1c2-4c2c-4abc-989c-17b221d8f68d
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：b79c6abd-9e99-4008-b9b7-18a8c00834b0
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   192/57306  龙游康美皮肤病门诊部
+[INFO] 共出现 2 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：6ce87560-b39c-4ba8-b898-418ea43a7485
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：d9e538bb-c6e2-44de-b93b-e728b5a6e404
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   193/57306  缙云县疾病预防控制中心
+[INFO] 该要素编码均一致
+[INFO] 要素编码：281a1efd-dd04-4a1c-b3e8-cedb0d418540
+
+[INFO]   194/57306  缙云县妇幼保健计划服务中心
+[INFO] 共出现 3 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：ecae8a75-9cae-485b-af3c-177f253ab92c
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：7129afae-76c5-46e3-97f6-1f842d1bf981
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：8641feac-5e25-45d3-a4f9-bce00d433008
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   195/57306  龙游县横山中心卫生院
+[INFO] 共出现 4 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：eb127aa1-1345-48e3-9d75-dc9caff730ec
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：dfd447c6-bd33-4d99-b10a-b77fa15e5f85
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：8ad63bff-3e64-4a31-9ce5-7a68d46bc764
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 4 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：acada734-5dc8-4ab1-80ca-70231e71bc56
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   196/57306  路桥区疾病预防控制中心
+[INFO] 该要素编码均一致
+[INFO] 要素编码：cf6f6cd7-6f2c-45df-aced-9ecc480ca769
+
+[INFO]   197/57306  云和县疾病预防控制中心
+[INFO] 该要素编码均一致
+[INFO] 要素编码：9490c856-4841-4465-bef7-f9acb6c37a1a
+
+[INFO]   198/57306  绍兴市上虞区东关街道社区卫生服务中心
+[INFO] 共出现 4 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：cfe27e2d-a260-4fbd-a73d-56b54c34a1d9
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：b2081e3f-a2a1-4d7b-9f7a-3a258057fa0f
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：39b7368f-6e9f-43c6-9123-171babbf4b73
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 4 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：8fd93ca3-52d8-47bf-b432-ba9873492acb
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   199/57306  慈林医院
+[INFO] 共出现 4 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：d90b94d1-4681-4b61-93d1-2ee4ebc6480a
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：db9e0d38-1599-4134-9b05-147d07979ced
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：936e8cc8-2d0d-4151-affe-d74afd9ac734
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 4 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：45c86bab-eed6-42cb-a534-d3b49717aa52
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   200/57306  奉化市疾病预防控制中心
+[INFO] 该要素编码均一致
+[INFO] 要素编码：bcf8cc52-474c-498a-8016-218d4b0b35ed
+
+[INFO]   201/57306  奉化市溪口医院
+[INFO] 共出现 4 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：bfdb37a5-334c-4640-bc30-1e3735f9f62a
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：0e73b53c-bdb5-4222-8388-401fec653ee7
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：05f47f31-16b4-4f6e-b539-0e8989862562
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 4 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：b671795e-f52f-49b8-a37e-2bc0a9445472
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   202/57306  奉化市妇幼保健院
+[INFO] 共出现 2 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：59e8b0b0-bf05-4481-805e-f6994c16bb43
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：29c1eb2f-c30a-42a9-bc82-fd3434bd2023
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   203/57306  温州市洞头区人民医院
+[INFO] 共出现 5 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：7c64376a-505f-47b3-82db-52bf127f7ccc
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：2d54e5c4-1511-468f-94cb-546cdf629712
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：7a2d79f6-78e8-4f55-b3cd-722ea36acfa0
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 4 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ydjylwjsyy
+[INFO] 要素编码：f5b7674a-86d5-424e-b811-c12e66701817
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 5 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：c9696585-a1aa-4d62-ab68-6305061ca190
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   204/57306  温州市洞头区疾病预防控制中心
+[INFO] 共出现 3 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：8d120d53-0bba-4e92-a0be-20658b2b9d8f
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：5033533d-4044-4142-8962-9e79cf3eea1a
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：b8428810-66d2-4178-8ffa-80dee8ac3243
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   205/57306  温州市洞头区北岙街道社区卫生服务中心
+[INFO] 共出现 5 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：1231905c-28c6-4a90-b116-bbdc07e25b53
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：dc9225d8-786f-4ed5-87eb-4918bce36846
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：f5e8624c-7f05-4156-8421-5d18c22b5462
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 4 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ydjylwjsyy
+[INFO] 要素编码：2603eb79-3551-4d2e-b5bc-e8690fc38e9b
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 5 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：6278d5ab-7b95-4002-8d2b-cb912d8fa869
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   206/57306  温州市洞头区大门镇社区卫生服务中心
+[INFO] 共出现 5 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：17de79e4-27a7-47c6-921b-482de55ee767
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：2eeba657-2617-45fa-8604-f3418191c3fb
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：71481431-3da4-473d-bd23-6ff94557ab6d
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 4 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ydjylwjsyy
+[INFO] 要素编码：5463b9f4-ff96-4c66-87c8-c8ad34b9f8e0
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 5 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：945c4193-ed83-495d-a27b-c1645e7754a4
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   207/57306  温州市洞头区东屏街道社区卫生服务中心
+[INFO] 共出现 5 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：ba356b27-8218-4adb-928c-95efbf3d23e2
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：4988c42e-f474-41c6-89cb-714250adbdf6
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：71a9681d-661c-4e5a-bd7b-ee7586ea212a
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 4 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ydjylwjsyy
+[INFO] 要素编码：32308a9e-a50b-4ab7-8642-9f341021f8cc
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 5 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：1af09abc-934e-4aa1-8f05-f657cddedff4
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   208/57306  温州市洞头区元觉街道社区卫生服务中心
+[INFO] 共出现 5 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：bf927593-ec3f-4d91-90c7-7c70793e9cb8
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：c23d2b43-ad63-4f97-8b4b-f52ffb040346
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：819d3113-c207-4d16-afc3-f5f14e5f8824
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 4 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ydjylwjsyy
+[INFO] 要素编码：55f4193a-7f0f-41be-832d-96cdbaa244aa
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 5 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：fb40f746-838e-4cbc-90d5-2bc7f217a41c
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   209/57306  温州市洞头区霓屿街道社区卫生服务中心
+[INFO] 共出现 5 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：1f515a57-6e23-45d9-8ba7-c1f9d7540dcb
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：79ae226f-694f-44d9-9dd3-063b7872f6bd
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：48107ccb-8efe-44d2-a34b-03a9f2961185
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 4 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ydjylwjsyy
+[INFO] 要素编码：6bab8b63-ed74-4d20-8067-eb7812e542a2
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 5 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：07933b38-40ea-4183-a08e-ebd58955b2cc
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   210/57306  温州市洞头区鹿西乡社区卫生服务中心
+[INFO] 共出现 5 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：f8c4e107-c591-4ee7-9dff-479588592ec7
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：f3067b9e-71ca-487e-801b-315902fc40b0
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：294a3d48-b46f-476e-b575-e526638f3f8b
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 4 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ydjylwjsyy
+[INFO] 要素编码：bcc02a7a-4fa8-43f4-83fc-35528eac7be9
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 5 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：4b5898e7-18fc-473f-a6cf-dd38a3af2c79
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   211/57306  温州市洞头区灵昆街道社区卫生服务中心
+[INFO] 共出现 4 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：9455fa6b-fc67-4966-8f3f-ad8709e22fcf
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：5d66cd4c-c4a3-4e77-bee4-a3610d4a5190
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：7d26f06c-e5dc-482b-b677-9d4cf37f47b7
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 4 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：8724dfef-bbc7-4f97-9a81-f7186ebf3848
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   212/57306  象山县疾病预防控制中心
+[INFO] 该要素编码均一致
+[INFO] 要素编码：2a9ed64e-9477-4387-b624-5741e4829467
+
+[INFO]   213/57306  宁波市第四医院（象山县第一人民医院）
+[INFO] 共出现 3 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：c4365655-a8e5-438b-9c91-4babc3f89c20
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：c418e748-ff7f-4528-a123-835fc7f528be
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：64a42cc5-3552-4aaa-aa6e-0baf76757f7d
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   214/57306  象山县红十字台胞医院
+[INFO] 共出现 4 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：e1731b57-0375-45e8-9297-a6f0d19ad285
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：48e0e0a1-280f-42f1-8ec7-3600b6ff6f1d
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：da93f0c3-a9fb-4eb4-8828-6c0ce0bbadf7
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 4 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：27f8f658-4180-4382-bfad-9d992144a600
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   215/57306  象山县妇幼保健院
+[INFO] 共出现 4 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：9f7bbd51-bd7a-462c-bec8-cc680282301e
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：cf2a2aac-2eef-4cfc-b6d7-4331d30ebb4f
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：a6086ad3-f70b-49e6-bea2-e0286c1b3c69
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 4 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：6ad1466f-4e5c-4026-9d16-5d6576c64ec9
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   216/57306  象山县中医医院
+[INFO] 共出现 4 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：c7c75f78-9bac-4330-9e0f-a7c2b2d9ab5e
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：b814b4b1-a214-47cc-85bc-d25a7d740570
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：e8fce31a-ea8f-4031-b57b-3ccf4f5b7a2d
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 4 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：da20bfa7-27e7-4b10-a7e7-db28e55a0a50
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   217/57306  婺城区疾病预防控制中心
+[INFO] 该要素编码均一致
+[INFO] 要素编码：2faa769e-6e48-431f-b4ce-af39589e80dd
+
+[INFO]   218/57306  平阳县第二人民医院
+[INFO] 共出现 3 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：decd6d4c-2d6c-4abb-a60f-a6472276d9ea
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：f0b3b762-0474-49e6-b22d-1692decf906f
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：aeadc3f8-971f-4d87-a48b-d92352be1cc8
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   219/57306  沙头镇HIV快速检测点
+[INFO] 该要素编码均一致
+[INFO] 要素编码：e8236e4f-7d5a-4aca-a573-5b9ad7a7fead
+
+[INFO]   220/57306  永嘉县疾病预防控制中心
+[INFO] 该要素编码均一致
+[INFO] 要素编码：7956bbd2-05a1-4035-8151-149ad6604cf3
+
+[INFO]   221/57306  平阳县妇幼保健计划生育服务中心
+[INFO] 该要素编码均一致
+[INFO] 要素编码：4d3a6b54-c4a0-4688-b1ad-a840651582f7
+
+[INFO]   222/57306  金华市妇幼保健院
+[INFO] 共出现 3 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：e66dc454-ba9d-45d6-a83b-b46503ecfdf2
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：734db729-9669-41af-a684-b360fa3dad0b
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：04295942-4b9b-4b40-a4a9-3c7ed8d57722
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   223/57306  浙江大学金华医院金华市中心医院
+[INFO] 该要素编码均一致
+[INFO] 要素编码：a84f6fb9-a92e-466d-9a5d-b2a7bd6edfa8
+
+[INFO]   224/57306  温州市鹿城区疾病预防控制中心
+[INFO] 该要素编码均一致
+[INFO] 要素编码：76702710-95e8-4656-92e5-fc20e079170f
+
+[INFO]   225/57306  金华市金东区妇幼保健计划生育服务中心
+[INFO] 共出现 2 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：59169e9e-c11a-4749-b7e3-906503f5c71a
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：c6fa1d28-951c-4685-8fb6-0866bc5f40f9
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   226/57306  温州经济技术开发区疾病预防控制中心
+[INFO] 该要素编码均一致
+[INFO] 要素编码：e9cd3694-d91b-4863-b0cb-b55b2bab1d23
+
+[INFO]   227/57306  温州医科大学附属第二医院、育英儿童医院
+[INFO] 共出现 2 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：433b121e-809b-48be-9eb5-128cab9ed58e
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：b0b6c162-df9b-47c3-8a2f-067ca10ee644
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   228/57306  温州市第六人民医院
+[INFO] 该要素编码均一致
+[INFO] 要素编码：4b8f28b8-65ba-4a18-a27e-dded7fa880af
+
+[INFO]   229/57306  温州市疾病预防控制中心
+[INFO] 该要素编码均一致
+[INFO] 要素编码：89dd81a0-8ca9-454a-a03d-07c206694369
+
+[INFO]   230/57306  苍南县第二人民医院
+[INFO] 共出现 5 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：24302d78-11d6-4c6b-ab40-edb270df3121
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：7c0a55aa-2fd5-4eac-a504-6a17bcde26c9
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：3a79fae2-999b-405d-bed8-4608164d5445
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 4 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ydjylwjsyy
+[INFO] 要素编码：38953db6-077c-4e74-8505-221f559b0021
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 5 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：e7936ee1-ee9e-42f1-9bc5-83b4280f841d
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   231/57306  苍南县第三人民医院
+[INFO] 共出现 4 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：d1c0b160-fc72-447d-82df-a2e69110e2ad
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：3cae4573-0f4c-4bb2-8739-b9cf45beedbc
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ydjylwjsyy
+[INFO] 要素编码：63ea986f-653b-4cdd-b2bf-ce30738f6057
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 4 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：055eff42-81d3-44e6-b24f-c8ff294edcdd
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   232/57306  苍南县中医院
+[INFO] 共出现 5 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：338b2912-6515-4f4e-bc50-c880284f9649
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：a364bcb3-e2c1-4842-9e4c-5f0ab9c1c21f
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：4d8390ca-15bb-4e16-bc2d-783cb4989786
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 4 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ydjylwjsyy
+[INFO] 要素编码：5fd20afb-e46b-4d43-b64d-531a14b98383
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 5 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：d028e9eb-cf6d-49b7-822f-3f341a377548
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   233/57306  苍南县人民医院
+[INFO] 共出现 4 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：b892105f-17fe-42de-95ac-0309abd41ac6
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：0db3947c-24cf-4e41-8e95-8a12b8ea1c5b
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ydjylwjsyy
+[INFO] 要素编码：09cf788b-f820-4633-85a9-3ef4f42ba203
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 4 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：6879a0f4-e570-4344-9704-76dc6e0770a3
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   234/57306  苍南县妇幼保健院
+[INFO] 共出现 3 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：54c1f89d-4e13-46c8-8504-5e73d3c14488
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：3fbe86e4-53e2-4070-99fe-c829a58fd570
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ydjylwjsyy
+[INFO] 要素编码：34cabe6c-1ef2-4965-8320-028d955fe23b
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   235/57306  苍南县疾病预防控制中心
+[INFO] 共出现 2 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：d1f0c8c6-bcb0-4f04-9c3e-9ad4e2d9dbe9
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：33795e7a-73b6-4c82-b6b2-bd8f3bfe092e
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   236/57306  诸暨市阮市镇卫生院
+[INFO] 共出现 4 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：f683de01-6b42-4309-8fcf-b358f571f18e
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：f5764e80-edb7-44c3-be10-da7573251840
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：341cc156-306b-48be-bb27-49e7665853ca
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 4 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：bbe3469a-9791-4395-b393-023173867165
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   237/57306  温州市瓯海区疾病预防控制中心
+[INFO] 该要素编码均一致
+[INFO] 要素编码：33d49028-1f30-46ad-b8ef-831d65961b28
+
+[INFO]   238/57306  温州市瓯海区妇幼保健计划生育服务中心
+[INFO] 共出现 2 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：4643fbf4-1a3d-4965-860d-d1f43f1f7fca
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：6b5f7508-af2a-445b-8482-4e29ba4c8730
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   239/57306  泰顺县人民医院
+[INFO] 共出现 5 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：b47abcad-1ef9-4ec0-833b-ae3719443696
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：bc1d6541-56d7-4d7d-a58f-f5f7a9a7ce7c
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：a6bcb3da-b8e2-413e-9a87-10b59daef1c0
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 4 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ydjylwjsyy
+[INFO] 要素编码：f039731f-845f-4ca7-90d0-a7506aa59bbd
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 5 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_tjjg
+[INFO] 要素编码：f17d6158-afc8-4e4a-a9b0-cef4ff8d64af
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   240/57306  温州市龙湾区第一人民医院
+[INFO] 共出现 4 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：a93369a1-6bea-44e3-a280-76d317372591
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：b3a6203d-5fd4-4500-ba44-d9a70a33af61
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 3 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ybddyljg
+[INFO] 要素编码：e3a0ede9-f97a-4bd3-bea0-a715b31c58cc
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 4 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_ydjylwjsyy
+[INFO] 要素编码：ee91bda0-f72f-400e-b3c5-bef7697b5da0
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   241/57306  温州市龙湾区疾病预防控制中心
+[INFO] 该要素编码均一致
+[INFO] 要素编码：f55420fe-9bb8-45b2-a6c9-fc59e8949d59
+
+[INFO]   242/57306  温州市龙湾区妇幼保健计划生育服务中心
+[INFO] 共出现 2 处编码不一致的要素 
+
+[INFO] ----第 1 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_azbzyzxjcjg
+[INFO] 要素编码：0f786c81-6782-468d-b067-331eaa6211fb
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO] ----第 2 处要素----
+[INFO] 要素所在图层名称：lyr_jybj_syyljg
+[INFO] 要素编码：54940df2-a898-4bd5-8ceb-97d3e5b649d3
+[INFO] 要素所在文件路径：E:/武大质检程序样例数据/stdata/1政务报送数据下载_已发布GUID.gdb
+
+[INFO]   243/57306  舟山市普陀区疾病预防控制中心六横分中心
+[INFO] 该要素编码均一致
+[INFO] 要素编码：0a6d3655-9c5c-461f-be8d-3b0804fdbef8
+

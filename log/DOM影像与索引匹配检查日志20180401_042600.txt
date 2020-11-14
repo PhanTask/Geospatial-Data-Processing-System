@@ -1,0 +1,7 @@
+[CONFIG] 任务项：DOM影像与索引匹配检查
+[CONFIG] 索引数据输入目录：E:/武大质检程序样例数据/GeoBigData/data/索引与影像匹配/图廓.gdb
+[CONFIG] 检查模式：并行（CPU核心数 8）
+[INFO] 进程池初始化...
+[INFO] 初始化成功，开始检查数据...
+
+[INFO] 检查完成

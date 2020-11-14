@@ -1,0 +1,9 @@
+[CONFIG] 任务项：DEM异常值检查
+[CONFIG] 输入目录：E:/20180401中文/data/dem_cs
+[CONFIG] 输出目录：E:/20180401中文/data/dataLab
+[CONFIG] DEM高程有效范围设置：(-20, 8000)
+[CONFIG] 检查模式：并行（CPU核心数 8）
+[INFO] 进程池初始化...
+[INFO] 初始化成功，开始检查数据...
+
+[INFO] 检查完成
