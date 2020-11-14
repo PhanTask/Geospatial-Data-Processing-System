@@ -10,3 +10,9 @@ Specifically, for DOM and DEM data, we designed and implemented several efficien
 ![](http://www.jinmengrao.com/gdp/img/GDP-3.jpg)
 
 The system is written in Python with plenty of open source libraries such as Pyside, GDAL/OGR, Numpy, Geopandas, Fiona, Shapely, PyGeodesy, Fuzzywuzzy, etc. Threading and multiprocessing are used to parallelize data processing tasks, and Cython is used to accelerate core algorithms.
+
+## References
+
+Rao, J.✉, Yu, J., Zhu, X., Du, T. and Ren, F. (2019). An Algorithm For Removing Invalid Pixels In Remote Sensing Images Based On Vector Boundary Extraction. Journal of Geomatics.
+
+Du, T., Rao, J., Peng, R. and Du, Q*✉. (2020). Multi-Source Geographic Data Efficient Quality Inspection System Based on Python. Journal of Geomatics 45 (2), 1-6.
