@@ -13,6 +13,6 @@ The system is written in Python with plenty of open source libraries such as Pys
 
 ## References
 
-Rao, J.✉, Yu, J., Zhu, X., Du, T. and Ren, F. (2019). An Algorithm For Removing Invalid Pixels In Remote Sensing Images Based On Vector Boundary Extraction. Journal of Geomatics.
-
 Du, T., Rao, J., Peng, R. and Du, Q*✉. (2020). Multi-Source Geographic Data Efficient Quality Inspection System Based on Python. Journal of Geomatics 45 (2), 1-6.
+
+Rao, J.✉, Yu, J., Zhu, X., Du, T. and Ren, F. (2019). An Algorithm For Removing Invalid Pixels In Remote Sensing Images Based On Vector Boundary Extraction. Journal of Geomatics.
